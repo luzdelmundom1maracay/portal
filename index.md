@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a Lumbrera
 
 You can use the [editor on GitHub](https://github.com/luzdelmundom1maracay/portal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
